@@ -4,6 +4,6 @@
 
 __I, Recommend to go through this resources__
 <ul>
-1.> Microsoft learn docs : https://docs.microsoft.com/en-us/learn/paths/create-powerapps/?WT.mc_id=twitter-social-donasa>
-2.>  #Do the Thing : https://donasarkar.com/f/you-want-an-upskilling-academy-you-say/?WT.mc_id=personal-blog-donasa> 
+  <li>Microsoft learn docs : https://docs.microsoft.com/en-us/learn/paths/create-powerapps/?WT.mc_id=twitter-social-donasa></li>
+<li>#Do the Thing : https://donasarkar.com/f/you-want-an-upskilling-academy-you-say/?WT.mc_id=personal-blog-donasa> </li>
 </ul>
