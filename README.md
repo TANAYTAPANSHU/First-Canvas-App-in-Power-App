@@ -1,6 +1,29 @@
-# Creating Your First Canvas App in Power App
+# My first Power App 👨‍💻🙌 : India Magnificient Masterpiece
 
-## Just starting with the power app??🧐
+Made this app as an experiment the power of #lessCodeMorePower. Making a power app was really a great experience , learned a lot of things during making this app and helped me to explore the Power Apps.
+
+## Using the app explore the heritages and tourists spots of India. I hope , it connects to alot of people
+ 
+Web app link : https://apps.powerapps.com/play/df468781-0c2b-46dd-aaa0-5bad1179b1e7?tenantId=84c31ca0-ac3b-4eae-ad11-519d80233e6f 
+
+<img src = " incredible.jpeg   "></img>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Creating Your First Canvas App in Power App
+
+### Just starting with the power app??🧐
 
 __I, Recommend to go through this resources__
 <ul>
