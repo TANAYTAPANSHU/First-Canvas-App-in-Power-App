@@ -10,7 +10,8 @@ __I, Recommend to go through this resources__
 
 __Prerequiste:__
  confirm that you have provisioned an environment where you will save your apps, flows and database entities. 
- <br>
+ 
+ 
  <img src="environment.png">
  </img>
  
