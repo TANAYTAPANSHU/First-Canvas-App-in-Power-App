@@ -1,6 +1,6 @@
 # My first Power App 👨‍💻🙌 : India Magnificient Masterpiece
 
-Made this app as an experiment the power of #lessCodeMorePower. Making a power app was really a great experience , learned a lot of things during making this app and helped me to explore the Power Apps.
+Made this app to explore the power of #lessCodeMorePower. Making a power app was really a great experience , learned a lot of things during making this app and helped me to explore the Power Apps.
 
 ## Using the app explore the heritages and tourists spots of India. I hope , it connects to alot of people
  
